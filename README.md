@@ -20,5 +20,5 @@ This tool simply detects the text in the Image and querrys the web for the right
 ## How to use
 
 * first run the **src.py** in console with `python src.py` and resize your sreen sharing tool to the size of the created window and locate your tool directly on the window, so screenshots are possible.
-![resize](rezise.gif  "resize")
+![resize](resize.gif  "resize")
 * now run **main.py** with `python main.py` in the console and you are ready to go. now the tool will do the work for you. *just click __scann__ every time a new question comes up*
