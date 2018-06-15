@@ -1,4 +1,4 @@
-# Quizclash / Quizduell OCR
+# Quizclash / Quizduell OCR *hack / cheat*
 
 ![PREVIEW](https://i.imgur.com/gjhwFrT.jpg  "Preview")
 
