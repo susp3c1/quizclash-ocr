@@ -9,10 +9,12 @@ This tool simply detects the text in the Image and querrys the web for the right
 * You need a tool to share your smartphone screen to our pc. I use [**scrcpy**](https://github.com/Genymobile/scrcpy) , but every other tool should work also.
 * To run the programm you need **Python 3**
 * The uses the following libaries *install with pip*
-  `pip install bs4`
-  `pip install pyscreenshot`
-  `pip install pyocr`
-  `pip install PyQt5`
+  ```
+  pip install bs4
+  pip install pyscreenshot
+  pip install pyocr
+  pip install PyQt5
+  ```
 * you also will need [tesseract-ocr](https://github.com/tesseract-ocr) and [tessdata](https://github.com/tesseract-ocr/tessdata) so tesseract-ocr can detect the texin the images
 
 ## How to use
